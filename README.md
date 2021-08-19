@@ -10,3 +10,7 @@ Dynamic Pro, rewrite
 - Run `npm i` in terminal
 - Create a `.env` file and put `TOKEN=YOUR_DISCORD_BOT_TOKEN` in it.
 - run `npm start`
+
+## credits????????
+reconlx's handler(how glob works)
+salvage dev's handler(customized client class, glob)
