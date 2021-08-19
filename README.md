@@ -2,7 +2,7 @@
 Dynamic Pro, rewrite
 
 ## SelfHost
-- Click on this image:
+- If you see a button like this anywhere on the screen, click it:
 ![Code](https://i.imgur.com/x1dUOfK.png)
 - And "Download ZIP"
 - Extract the file
