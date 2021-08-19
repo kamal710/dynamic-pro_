@@ -12,5 +12,5 @@ Dynamic Pro, rewrite
 - run `npm start`
 
 ## credits????????
-reconlx's handler(how glob works)
-salvage dev's handler(customized client class, glob)
+- reconlx's handler(how glob works, how slashcommands are registered the dynamic way, context menus)
+- salvage dev's handler(customized client class, glob)
