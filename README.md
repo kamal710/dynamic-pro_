@@ -15,3 +15,4 @@ Dynamic Pro, rewrite
 - reconlx's handler(how glob works, how slashcommands are registered the dynamic way, context menus)
 - salvage dev's handler(customized client class, glob)
 - random article that i found on google(ES6 syntax in nodejs)
+- myself(spent an hour debugging how glob works)
